@@ -1,0 +1,6 @@
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\bin\Debug\beealg.exe.config
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\bin\Debug\beealg.exe
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\bin\Debug\beealg.pdb
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\obj\Debug\beealg.csprojResolveAssemblyReference.cache
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\obj\Debug\beealg.exe
+C:\Users\Олександр\Documents\Visual Studio 2015\Projects\beealg\beealg\obj\Debug\beealg.pdb
